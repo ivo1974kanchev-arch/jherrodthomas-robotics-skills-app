@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jherrodthomas-robotics-skills-suite-cpmh5ih4y.vercel.app/sitemap.xml
